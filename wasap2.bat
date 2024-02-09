@@ -8,11 +8,7 @@ echo hecho por AlmanacZer0
 echo -----------------------------
 echo Usuario %computername%
 echo -----------------------------
-    echo 35 - andrea 
-    echo 32 - el jabi
-    echo 33 - el isaac
-    echo 34 - caricol
-    echo 44 - mobin
+    rem Aqui irian los usuarios, quitado por seguridad
 echo A quien quieres mandar un wasap
 echo -----------------------------
 set /p Svr=">"
